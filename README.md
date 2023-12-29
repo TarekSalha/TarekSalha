@@ -2,8 +2,8 @@
 var tarekSalha = new azureDeveloper()
 {
     i_am = ("human", "data engineer", "consultant"),
-    i_do = ("build cutting edge data platforms", "teach people how to create informative reports"),
-    interests = (".Net", "SQL Server", "Azure", "Spark"),
+    i_do = ("build cutting edge data platforms", "create scalable cloud-native services", "teach people", "create informative reports"),
+    interests = (".Net", "SQL Server", "Azure", "Python", "Spark", "Power BI"),
     skills = ("analytical mindset", "deep technical knowledge", "honest and blunt communication", "curiosity"),
     passion = ("empowering people", "create useful and resilient software")
 };
